@@ -265,7 +265,7 @@ IMDb Data:
 📀 RunTime: {runtime} Minutes
 📆 Release Info : {release_date}
 🎛 Countries : <code>{countries}</code>
-
+🤖 hii {message.from_user.mention} my name is Raj dev 
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
@@ -727,7 +727,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Tv_serial_wala'>VJ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/+H-l9E4CaQ8pmZDBl'>VJ</a>
 
 -Dev 2 <a href='https://t.me/+H-l9E4CaQ8pmZDBl'>VJ</a>
 
