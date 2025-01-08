@@ -239,7 +239,7 @@ async def deletefilter(client, message):
 async def delallconfirm(client, message):
     userid = message.from_user.id if message.from_user else None
     if not userid:
-        return await message.reply(raj says f"You are anonymous admin. Use /connect {message.chat.id} in PM")
+        return await message.reply(f"raj says: You are anonymous admin. Use /connect {message.chat.id} in PM")
     chat_type = message.chat.type
 
     if chat_type == enums.ChatType.PRIVATE:
